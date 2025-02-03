@@ -1,0 +1,15 @@
+.container {
+    margin : var(--margin-section);
+
+}
+
+.logo_container {
+    height      : 56px;
+    display     : flex;
+    align-items : center;
+    color       : white;
+}
+
+.logo_image {
+    height : 100%;
+}

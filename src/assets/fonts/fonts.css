@@ -1,0 +1,29 @@
+@font-face {
+    font-family : "bebasFont";
+    src         : url("bebasneue-regular-webfont.woff2") format("woff2"),
+    url("bebasneue-regular-webfont.woff") format("woff"),
+    url("BebasNeue-Regular.ttf") format("truetype");
+    font-weight : 600;
+    font-style  : normal;
+    /*font-display: swap;*/
+}
+
+@font-face {
+    font-family : "montserratbold";
+    src         : url("montserrat-bold-webfont.woff2") format("woff2"),
+    url("montserrat-bold-webfont.woff") format("woff"),
+    url("Montserrat-Bold.ttf") format("truetype");
+    font-weight : 600;
+    font-style  : normal;
+
+}
+
+@font-face {
+    font-family : "montserratextralight";
+    src         : url("montserrat-extralight-webfont.woff2") format("woff2"),
+    url("montserrat-extralight-webfont.woff") format("woff"),
+    url("Montserrat-ExtraLight.ttf") format("truetype");
+    font-weight : 600;
+    font-style  : normal;
+
+}
