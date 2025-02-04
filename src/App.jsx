@@ -1,14 +1,14 @@
 
 import './App.css'
-import Header from "../Header/Header.jsx";
 
+import Home from './Pages/Home.jsx'
 function App() {
 
 
   return (
     <>
-      <Header></Header>
 
+<Home></Home>
     </>
   )
 }

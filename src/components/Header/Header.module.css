@@ -1,6 +1,15 @@
 .container {
-    margin : var(--margin-section);
+    padding          : var(--margin-section);
+    width: 100%;
+    display         : flex;
+    align-items     : center;
+    justify-content : space-between;
+}
 
+.logo_text {
+    font-size    : 32px;
+    margin       : 0;
+    padding-left : 8px;
 }
 
 .logo_container {
